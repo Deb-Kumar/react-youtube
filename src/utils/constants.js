@@ -44,7 +44,7 @@ export const COMMENT_DATA = [
     text: " Lorem ipsum dolor sit amet, consectetur adip e",
     replies: [
       {
-        name: "jaydeep Sarkar",
+        name: "Dev Kumar",
         text: " Lorem ipsum dolor sit amet, consectetur adip e",
         replies: [
           {
